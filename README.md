@@ -22,13 +22,13 @@ The effectiveness of any supplement depends heavily on what goes inside it. **[P
 
 ## Maca Root
 
-![Maca Root](https://raw.githubusercontent.com/reviews7/ProstaVive/refs/heads/main/maca-root.jpg)
+![Maca Root](https://raw.githubusercontent.com/reviews7/ProstaVive/refs/heads/main/maca-root-0.jpg)
 
 Maca Root is a well-known adaptogenic herb traditionally used to support energy, stamina, and hormonal balance. It is often associated with improved vitality and overall male wellness.
 
 ## Artichoke Extract
 
-![Artichoke Extract](https://raw.githubusercontent.com/reviews7/ProstaVive/refs/heads/main/artichoke-extract.jpg)
+![Artichoke Extract](https://raw.githubusercontent.com/reviews7/ProstaVive/refs/heads/main/artichoke-extract-0.jpg)
 
 Artichoke Extract is rich in antioxidants and compounds that support liver function and digestion. It indirectly supports hormone metabolism, which plays a role in overall prostate health.
 
@@ -36,7 +36,7 @@ Artichoke Extract is rich in antioxidants and compounds that support liver funct
 
 ## Nettle Root
 
-![Nettle Root](https://raw.githubusercontent.com/reviews7/ProstaVive/refs/heads/main/nettle-root.jpg)
+![Nettle Root](https://raw.githubusercontent.com/reviews7/ProstaVive/refs/heads/main/nettle-root-0.jpg)
 
 Nettle Root is widely used in male health supplements for its role in supporting urinary flow and reducing discomfort related to prostate enlargement. It is commonly linked with improved bladder function.
 
@@ -52,13 +52,13 @@ Magnesium supports muscle relaxation, nerve function, and overall cellular healt
 
 ## Panax Ginseng
 
-![Panax Ginseng](https://raw.githubusercontent.com/reviews7/ProstaVive/refs/heads/main/panax-ginseng.jpg)
+![Panax Ginseng](https://raw.githubusercontent.com/reviews7/ProstaVive/refs/heads/main/panax-ginseng-0.jpg)
 
 Panax Ginseng is a powerful herbal adaptogen known for boosting energy, improving stamina, and supporting overall vitality. It also helps the body manage stress, which can indirectly affect hormonal balance.
 
 ## Ashwagandha
 
-![Ashwagandha](https://raw.githubusercontent.com/reviews7/ProstaVive/refs/heads/main/ashwagandha.jpg)
+![Ashwagandha](https://raw.githubusercontent.com/reviews7/ProstaVive/refs/heads/main/ashwagandha-0.jpg)
 
 Ashwagandha is a traditional herb used for stress reduction and hormonal balance. It supports healthy cortisol levels, which may contribute to better overall male reproductive health.
 
@@ -66,7 +66,7 @@ Ashwagandha is a traditional herb used for stress reduction and hormonal balance
 
 ## Tongkat Ali
 
-![Tongkat Ali](https://raw.githubusercontent.com/reviews7/ProstaVive/refs/heads/main/tongkat-ali.jpg)
+![Tongkat Ali](https://raw.githubusercontent.com/reviews7/ProstaVive/refs/heads/main/tongkat-ali-0.jpg)
 
 Tongkat Ali is often associated with testosterone support and male performance enhancement. It is included in many men’s health formulas for its role in improving energy, strength, and vitality.
 
